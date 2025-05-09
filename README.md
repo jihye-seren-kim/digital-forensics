@@ -1,1 +1,1 @@
-# CTF-WriteUps
+# Digital forensics lecture material
